@@ -1,0 +1,13 @@
+{
+    "name":"MBA",
+    "description":"Dev box",
+    "services":{
+	"ls":{
+            "name":"ls",
+	    "description":"list directory", 
+	    "output":"string",
+	    "path":"/ls",
+	    "command":"ls"
+	}
+    }
+}
